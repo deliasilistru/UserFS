@@ -1,9 +1,6 @@
 UserFS
 =======
 
-University Project
-------------------
-
 Cerință:
 --------
 
